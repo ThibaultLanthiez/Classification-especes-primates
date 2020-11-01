@@ -2,4 +2,4 @@
 
 # Classification d'espèces de primates
 
-[Code](https://github.com/ThibaultLanthiez/Clustering-genres-musiques/blob/main/Projet_11_Clustering_Music_genre_Spotify.ipynb)
+[Code](https://github.com/ThibaultLanthiez/Classification-especes-primates/blob/main/Monkey%20detection.ipynb)
